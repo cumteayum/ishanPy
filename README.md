@@ -26,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanpy&show_icons=true&locale=en&layout=compact" alt="ishanpy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanpy&show_icons=true&locale=en" alt="ishanpy" /></p>
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/https://open.spotify.com/user/31jtjvnxri3hnfdhbya7p3bbcmju)
